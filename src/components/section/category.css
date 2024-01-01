@@ -1,0 +1,31 @@
+.section h2{
+    margin-bottom: 10px;
+}
+
+.section div{
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.section img{
+    height: 330px;
+    width: 100%;
+    object-fit: cover;
+    transition: .3s ease;
+}
+
+.section figure div{
+    justify-content: space-between;
+    line-height: 20px;
+}
+
+.section h3{
+    font-size: 24px;
+}
+
+.section figure:hover > img{
+    width: 300px;
+    transition: .3s ease;
+}
