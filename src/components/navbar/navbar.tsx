@@ -1,6 +1,6 @@
 import { useState } from 'react';
 import './navbar.css'
-import { IoCart, IoPersonCircle , IoMenu , IoClose } from "react-icons/io5";
+import { IoCart, IoSearch  , IoMenu , IoClose } from "react-icons/io5";
 
 export default function Navbar(){
 
@@ -18,7 +18,7 @@ export default function Navbar(){
             </ul>
             <div>
                 <IoCart />
-                <IoPersonCircle />
+                <IoSearch  />
             </div>
             <IoMenu className="menu" onClick={() => setIsOpen(!isOpen)}/>
         </div>

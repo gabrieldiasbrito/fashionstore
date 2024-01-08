@@ -1,12 +1,13 @@
 .navbar{
     display: flex;
+    position: fixed;
     background-color: var(--primary);
     align-items: center;
     justify-content: space-around;
     height: 80px;
     width: 100%;
     box-shadow: 0 1px 5px gray;
-    position: fixed;
+    z-index: 1;
 }
 
 .navbar ul li{
@@ -16,14 +17,14 @@
 }
 
 .navbar div{
-    font-size: 40px;
+    font-size: 30px;
     display: flex;
     justify-content: space-between;
     width: 100px;
 }
 
 .menu{
-    font-size: 50px;
+    font-size: 40px;
     display: none;
     cursor: pointer;
 }
@@ -35,6 +36,7 @@
 
     .navbar{
         justify-content: space-between;
+        height: 60px;
         padding: 0 10px;
     }
 

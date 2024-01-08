@@ -1,0 +1,18 @@
+.slider{
+    height: 350px;
+    z-index: 0;
+}
+
+.testi{
+    width: 100%;
+}
+
+@media (max-width: 1150px){
+    .slider{
+        height: 200px;
+    }
+    .swiper-button-next:after, .swiper-button-prev:after{
+        font-size: 25px;
+        font-weight: bold;
+    }
+}

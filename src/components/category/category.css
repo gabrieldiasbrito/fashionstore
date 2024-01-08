@@ -1,0 +1,64 @@
+.section h2{
+    margin-bottom: 10px;
+    margin-left: 20px;
+}
+
+.section div{
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.section img{
+    width: 250px;
+    height: 370px;
+    object-fit: cover;
+    transition: .3s ease;
+}
+
+.section figure div{
+    line-height: 20px;
+}
+
+.section h3{
+    font-size: 24px;
+}
+
+.section figure:hover > img{
+    width: 300px;
+    transition: .3s ease;
+}
+
+@media (max-width: 1150px){
+    .section div{
+        flex-wrap: wrap;
+        justify-content: space-around;
+    }
+
+    .section div figure{
+        margin-bottom: 10px;
+    }
+
+    .section figure div{
+        display: block;
+    }
+
+    .section img{
+        height: 190px;
+        width: 190px;
+    }
+
+    .section figure:hover > img{
+        width:  200px;
+        transition: .3s ease;
+    }
+
+    .section h3{
+        font-size: 20px;
+    }
+
+    .section h2{
+        margin-left: 5px;
+    }
+}
