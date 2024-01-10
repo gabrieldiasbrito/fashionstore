@@ -7,7 +7,7 @@ export default function App() {
   return (
     <>
       <Navbar/>
-      <div className='body'>
+      <div className='spacing'>
         <Outlet/>
       </div>
     </>

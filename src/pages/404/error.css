@@ -1,0 +1,35 @@
+.error{
+    text-align: center;
+}
+
+.error div{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.error h1{
+    font-size: 200px;
+}
+
+.error button{
+    padding: 10px;
+    border: 0;
+    background-color: var(--text);
+    color: var(--primary);    
+    font-size: 18px;
+    transition: all ease .3s;
+}
+
+.error button:hover{
+    background-color: var(--contrast);
+    color: var(--text);
+    transition: all ease .3s;
+}
+
+@media (max-width:600px) {
+    .error h1{
+        font-size: 150px;
+    }
+}

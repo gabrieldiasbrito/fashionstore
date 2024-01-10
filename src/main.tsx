@@ -4,7 +4,7 @@ import './index.css'
 
 import Home from './pages/Home/home.tsx'
 import App from './App.tsx'
-import Error from './pages/404/Error.tsx'
+import Error from './pages/404/error.tsx'
 
 import { createBrowserRouter, RouterProvider } from 'react-router-dom'
 

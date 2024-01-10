@@ -1,0 +1,323 @@
+{
+    "shoes":[
+        {
+            "name":"Tênis Campus 00S",
+            "gender":"Masculino",
+            "children": false,
+            "type":"Casual",
+            "brand":"Adidas",
+            "price":"699,99",
+            "color":"Preto",
+            "images":[
+                "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/b1fcedb1cb2145b58dcb3797c90faff8_9366/Tenis_Campus_00s_Preto_IF8768_01_standard.jpg",
+                "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/2874d740bd094203aaad70b800141e55_9366/Tenis_Campus_00s_Preto_IF8768_02_standard.jpg",
+                "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/d1b3ad92170c4d679a3bc6b21a21d4cb_9366/Tenis_Campus_00s_Preto_IF8768_03_standard.jpg",
+                "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/8cab04154f3042358369f1a863037770_9366/Tenis_Campus_00s_Preto_IF8768_04_standard.jpg",
+                "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/61901a5d317c418caa6b3996f0b365f1_9366/Tenis_Campus_00s_Preto_IF8768_05_standard.jpg"
+            ]
+        },
+        {
+            "name":"Tênis Tensaur Run",
+            "gender":"Masculino",
+            "children": false,
+            "type":"Esporte",
+            "brand":"Adidas",
+            "price":"299,99",
+            "color":"Preto",
+            "images":[
+                "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/31ad02d5c5f54b7c97d38e61ced98005_9366/Tenis_Tensaur_Run_Preto_IG8572_01_standard.jpg",
+                "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/9b47dc4a2ab441549ea858a0a4c86b47_9366/Tenis_Tensaur_Run_Preto_IG8572_02_standard.jpg",
+                "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/cefce0e845f44562b5ff163b19818a83_9366/Tenis_Tensaur_Run_Preto_IG8572_03_standard.jpg",
+                "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/23361dfde85648249451f660b8318603_9366/Tenis_Tensaur_Run_Preto_IG8572_04_standard.jpg",
+                "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/c6dc2a4669514fa995f42a6bd5dbf608_9366/Tenis_Tensaur_Run_Preto_IG8572_05_standard.jpg"
+            ]
+        },
+        {
+            "name":"Tênis Nike Pegasus 40",
+            "gender":"Masculino",
+            "children": false,
+            "type":"Esporte",
+            "brand":"Nike",
+            "price":"799,99",
+            "color":"Branco",
+            "images":[
+                "https://imgnike-a.akamaihd.net/768x768/0258035BA2.jpg",
+                "https://imgnike-a.akamaihd.net/768x768/0258035BA2.jpg",
+                "https://imgnike-a.akamaihd.net/768x768/0258035BA3.jpg",
+                "https://imgnike-a.akamaihd.net/768x768/0258035BA1.jpg",
+                "https://imgnike-a.akamaihd.net/768x768/0258035BA5.jpg"
+            ]
+        },
+        {
+            "name":"Tênis Nike Air Max Alpha Trainer 5",
+            "gender":"Masculino",
+            "children": false,
+            "type":"Esporte",
+            "brand":"Nike",
+            "price":"749,99",
+            "color":"Preto",
+            "images":[
+                "https://imgnike-a.akamaihd.net/768x768/022810IDA2.jpg",
+                "https://imgnike-a.akamaihd.net/768x768/022810ID.jpg",
+                "https://imgnike-a.akamaihd.net/768x768/022810IDA3.jpg",
+                "https://imgnike-a.akamaihd.net/768x768/022810IDA1.jpg",
+                "https://imgnike-a.akamaihd.net/768x768/022810IDA5.jpg"
+            ]
+        },
+        {
+            "name":"Chinelo Nike Victori One",
+            "gender":"Masculino",
+            "children": false,
+            "type":"Sandalia",
+            "brand":"Nike",
+            "price":"249,99",
+            "color":"Branco",
+            "images":[
+                "https://imgnike-a.akamaihd.net/768x768/0093515B.jpg",
+                "https://imgnike-a.akamaihd.net/768x768/0093515BA1.jpg",
+                "https://imgnike-a.akamaihd.net/768x768/0093515BA4.jpg",
+                "https://imgnike-a.akamaihd.net/768x768/0093515BA2.jpg",
+                "https://imgnike-a.akamaihd.net/768x768/0093515BA5.jpg"
+            ]
+        },
+        {
+            "name":"Tênis Superstar",
+            "gender":"Feminino",
+            "children": false,
+            "type":"Casual",
+            "brand":"Adidas",
+            "price":"499,99",
+            "color":"Branco",
+            "images":[
+                "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/7ed0855435194229a525aad6009a0497_9366/Tenis_Superstar_Branco_EG4958_01_standard.jpg",
+                "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/27a4cab6236447958c5caad6009a19be_9366/Tenis_Superstar_Branco_EG4958_06_standard.jpg",
+                "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/8a358bcd5e3d453da815aad6009a249e_9366/Tenis_Superstar_Branco_EG4958_02_standard.jpg",
+                "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/3708ab90979a4ba59535aad6009a2fa8_9366/Tenis_Superstar_Branco_EG4958_03_standard.jpg",
+                "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/31cf91f6e16c4f0aa11caad6009a4590_9366/Tenis_Superstar_Branco_EG4958_05_standard.jpg"
+            ]
+        },
+        {
+            "name":"Tênis Nike Air Force 1 '07",
+            "gender":"Feminino",
+            "children": false,
+            "type":"Casual",
+            "brand":"Nike",
+            "price":"799,99",
+            "color":"Preto",
+            "images":[
+                "https://imgnike-a.akamaihd.net/768x768/013565IDA3.jpg",
+                "https://imgnike-a.akamaihd.net/768x768/013565ID.jpg",
+                "https://imgnike-a.akamaihd.net/768x768/013565IDA4.jpg",
+                "https://imgnike-a.akamaihd.net/768x768/013565IDA2.jpg",
+                "https://imgnike-a.akamaihd.net/768x768/013565IDA6.jpg"
+            ]
+        },
+        {
+            "name":"Tênis Runfalcon 3.0",
+            "gender":"Feminino",
+            "children": false,
+            "type":"Esporte",
+            "brand":"Adidas",
+            "price":"229,99",
+            "color":"Preto",
+            "images":[
+                "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/8192972f95ca41c4905dee5e8944f988_9366/Tenis_Runfalcon_3.0_Preto_ID2270_01_standard.jpg",
+                "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/57487dff2d33477cba812c55b61b8b6f_9366/Tenis_Runfalcon_3.0_Preto_ID2270_06_standard.jpg",
+                "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/08713c159fef4e92ae6987b965090862_9366/Tenis_Runfalcon_3.0_Preto_ID2270_02_standard.jpg",
+                "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/fdaac0dfeb0543a8af64e9d2fc00d8ac_9366/Tenis_Runfalcon_3.0_Preto_ID2270_03_standard.jpg",
+                "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/0d972e72b8fd46078d468f8de9a313c6_9366/Tenis_Runfalcon_3.0_Preto_ID2270_05_standard.jpg"
+            ]
+        },
+        {
+            "name":"Tênis Nike Free Metcon 5",
+            "gender":"Feminino",
+            "children": false,
+            "type":"Esporte",
+            "brand":"Nike",
+            "price":"229,99",
+            "color":"Branco",
+            "images":[
+                "https://imgnike-a.akamaihd.net/768x768/02576351A2.jpg",
+                "https://imgnike-a.akamaihd.net/768x768/02576351.jpg",
+                "https://imgnike-a.akamaihd.net/768x768/02576351A3.jpg",
+                "https://imgnike-a.akamaihd.net/768x768/02576351A1.jpg",
+                "https://imgnike-a.akamaihd.net/768x768/02576351A5.jpg"
+            ]
+        },
+        {
+            "name":"Chinelo Adilette Shower",
+            "gender":"Feminino",
+            "children": false,
+            "type":"Sandalia",
+            "brand":"Adidas",
+            "price":"179,99",
+            "color":"Branco",
+            "images":[
+                "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/ea38c9ad02c14317b731ad6e00cc6fc8_9366/Chinelo_Adilette_Shower_Branco_GZ5921_01_standard.jpg",
+                "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/543955ec34194f30895cad6e00cc7664_9366/Chinelo_Adilette_Shower_Branco_GZ5921_06_standard.jpg",
+                "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/1f278f22e5e74138b26ead6e00cc7d71_9366/Chinelo_Adilette_Shower_Branco_GZ5921_02_standard.jpg",
+                "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/cf4df03745844fbca6c9ad6e00cc8380_9366/Chinelo_Adilette_Shower_Branco_GZ5921_03_standard.jpg",
+                "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/ceb97ead61fa46d2a583ad6e00cca123_9366/Chinelo_Adilette_Shower_Branco_GZ5921_42_detail.jpg"
+            ]
+        },
+        {
+            "name":"Tênis Nike Pico 5",
+            "gender":"Masculino",
+            "children": true,
+            "type":"Casual",
+            "brand":"Nike",
+            "price":"199,99",
+            "color":"Preto",
+            "images":[
+                "https://imgnike-a.akamaihd.net/768x768/016386IDA2.jpg",
+                "https://imgnike-a.akamaihd.net/768x768/016386ID.jpg",
+                "https://imgnike-a.akamaihd.net/768x768/016386IDA3.jpg",
+                "https://imgnike-a.akamaihd.net/768x768/016386IDA1.jpg",
+                "https://imgnike-a.akamaihd.net/768x768/016386IDA5.jpg"
+            ]
+        },
+        {
+            "name":"Tênis Grand Court",
+            "gender":"Masculino",
+            "children": true,
+            "type":"Casual",
+            "brand":"Adidas",
+            "price":"249,99",
+            "color":"Branco",
+            "images":[
+                "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/2cc4139d99b24569a20eae91010c252c_9366/Tenis_Grand_Court_Branco_GW6527_01_standard.jpg",
+                "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/474ae84928fd492bbc6dae91010c3e8c_9366/Tenis_Grand_Court_Branco_GW6527_06_standard.jpg",
+                "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/70cf034cce414f20a895ae91010c5786_9366/Tenis_Grand_Court_Branco_GW6527_02_standard.jpg",
+                "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/5b05659bdb1946cf98cdae91010c701e_9366/Tenis_Grand_Court_Branco_GW6527_03_standard.jpg",
+                "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/3ddb6993f5944c4d8dc9ae91010ca2f2_9366/Tenis_Grand_Court_Branco_GW6527_05_standard.jpg"
+            ]
+        },
+        {
+            "name":"Tênis Tensaur Sport",
+            "gender":"Masculino",
+            "children": true,
+            "type":"Esporte",
+            "brand":"Adidas",
+            "price":"249,99",
+            "color":"Branco",
+            "images":[
+                "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/f802b3e51e584e269dc0ae8c0129156a_9366/Tenis_Treino_Tensaur_Sport_Branco_GW1988_01_standard.jpg",
+                "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/d218b0ce2c444cb5a57bae8c01292b76_9366/Tenis_Treino_Tensaur_Sport_Branco_GW1988_06_standard.jpg",
+                "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/6c8f1637138642cd95c7ae8c012944eb_9366/Tenis_Treino_Tensaur_Sport_Branco_GW1988_02_standard.jpg",
+                "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/37e9d33c8cf74a54b30eae8c01295b74_9366/Tenis_Treino_Tensaur_Sport_Branco_GW1988_03_standard.jpg",
+                "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/058523f4407743f784b1ae8c012987ef_9366/Tenis_Treino_Tensaur_Sport_Branco_GW1988_05_standard.jpg"
+            ]
+        },
+        {
+            "name":"Tênis Nike Flex Runner 2",
+            "gender":"Masculino",
+            "children": true,
+            "type":"Esporte",
+            "brand":"Nike",
+            "price":"349,99",
+            "color":"Preto",
+            "images":[
+                "https://imgnike-a.akamaihd.net/768x768/022133IDA2.jpg",
+                "https://imgnike-a.akamaihd.net/768x768/022133ID.jpg",
+                "https://imgnike-a.akamaihd.net/768x768/022133IDA3.jpg",
+                "https://imgnike-a.akamaihd.net/768x768/022133IDA1.jpg",
+                "https://imgnike-a.akamaihd.net/768x768/022133IDA5.jpg"
+            ]
+        },
+        {
+            "name":"Sandália Nike Kawa",
+            "gender":"Masculino",
+            "children": true,
+            "type":"Sandalia",
+            "brand":"Nike",
+            "price":"229,99",
+            "color":"Preto",
+            "images":[
+                "https://imgnike-a.akamaihd.net/768x768/006851IOA2.jpg",
+                "https://imgnike-a.akamaihd.net/768x768/006851IO.jpg",
+                "https://imgnike-a.akamaihd.net/768x768/006851IOA3.jpg",
+                "https://imgnike-a.akamaihd.net/768x768/006851IOA1.jpg"
+            ]
+        },
+        {
+            "name":"Tênis Grand Court Elastic Lace And Top Strap",
+            "gender":"Feminino",
+            "children": true,
+            "type":"Casual",
+            "brand":"Adidas",
+            "price":"299,99",
+            "color":"Branco",
+            "images":[
+                "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/49767723969a490eaf2e798c429b73e2_9366/Tenis_Grand_Court_Elastic_Lace_and_Top_Strap_Branco_ID7886_01_standard.jpg",
+                "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/7ef3eeedf8164f0791974eb721ab33c2_9366/Tenis_Grand_Court_Elastic_Lace_and_Top_Strap_Branco_ID7886_06_standard.jpg",
+                "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/c1a5df638bd14cf096bc77d821e127e2_9366/Tenis_Grand_Court_Elastic_Lace_and_Top_Strap_Branco_ID7886_02_standard.jpg",
+                "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/3552ad87ecd24960ba353cff6d2696f6_9366/Tenis_Grand_Court_Elastic_Lace_and_Top_Strap_Branco_ID7886_03_standard.jpg",
+                "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/d85980003fdf4f958f69b14958bf3f7b_9366/Tenis_Grand_Court_Elastic_Lace_and_Top_Strap_Branco_ID7886_05_standard.jpg"
+            ]
+        },
+        {
+            "name":"Tênis Nike SB Check Canvas",
+            "gender":"Feminino",
+            "children": true,
+            "type":"Casual",
+            "brand":"Nike",
+            "price":"359,99",
+            "color":"Preto",
+            "images":[
+                "https://imgnike-a.akamaihd.net/768x768/003019IDA2.jpg",
+                "https://imgnike-a.akamaihd.net/768x768/003019ID.jpg",
+                "https://imgnike-a.akamaihd.net/768x768/003019IDA3.jpg",
+                "https://imgnike-a.akamaihd.net/768x768/003019IDA1.jpg",
+                "https://imgnike-a.akamaihd.net/768x768/003019IDA5.jpg"
+            ]
+        },
+        {
+            "name":"Tênis Runfalcon 3 Lace",
+            "gender":"Feminino",
+            "children": true,
+            "type":"Esporte",
+            "brand":"Adidas",
+            "price":"279,99",
+            "color":"Preto",
+            "images":[
+                "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/073f3793d0e24eac8ea6af6801689693_9366/Tenis_RunFalcon_3_Lace_Preto_HP5845_01_standard.jpg",
+                "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/32971adea18b4df0a832af6801688b37_9366/Tenis_RunFalcon_3_Lace_Preto_HP5845_06_standard.jpg",
+                "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/d19c5bdb53394a6f9990af680167d93a_9366/Tenis_RunFalcon_3_Lace_Preto_HP5845_02_standard.jpg",
+                "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/cf9d444960984e75be03af680168bab6_9366/Tenis_RunFalcon_3_Lace_Preto_HP5845_03_standard.jpg",
+                "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/7a8d5f00362543f9b2f8af680168c94d_9366/Tenis_RunFalcon_3_Lace_Preto_HP5845_05_standard.jpg"
+            ]
+        },
+        {
+            "name":"Tênis Nike Team Hustle D 11",
+            "gender":"Feminino",
+            "children": true,
+            "type":"Esporte",
+            "brand":"Nike",
+            "price":"439,99",
+            "color":"Branco",
+            "images":[
+                "https://imgnike-a.akamaihd.net/768x768/02596351A2.jpg",
+                "https://imgnike-a.akamaihd.net/768x768/02596351.jpg",
+                "https://imgnike-a.akamaihd.net/768x768/02596351A3.jpg",
+                "https://imgnike-a.akamaihd.net/768x768/02596351A1.jpg",
+                "https://imgnike-a.akamaihd.net/768x768/02596351A5.jpg"
+            ]
+        },
+        {
+            "name":"Sandália Nike Sunray Protect 2",
+            "gender":"Feminino",
+            "children": true,
+            "type":"Sandalia",
+            "brand":"Nike",
+            "price":"279,99",
+            "color":"Branco",
+            "images":[
+                "https://imgnike-a.akamaihd.net/768x768/004010NMA2.jpg",
+                "https://imgnike-a.akamaihd.net/768x768/004010NM.jpg",
+                "https://imgnike-a.akamaihd.net/768x768/004010NMA3.jpg",
+                "https://imgnike-a.akamaihd.net/768x768/004010NMA1.jpg",
+                "https://imgnike-a.akamaihd.net/768x768/004010NMA5.jpg"
+            ]
+        }
+    ]
+}

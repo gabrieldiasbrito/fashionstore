@@ -12,9 +12,9 @@ export default function Navbar(){
             <ul className={`${isOpen && "open"}`}>
                 <IoClose className="menu close" onClick={() => setIsOpen(!isOpen)}/>
                 <li><a href="">Home</a></li>
-                <li><a href="">Home</a></li>
-                <li><a href="">Home</a></li>
-                <li><a href="">Home</a></li>
+                <li><a href="">Masculino</a></li>
+                <li><a href="">Feminino</a></li>
+                <li><a href="">Infantil</a></li>
             </ul>
             <div>
                 <IoCart />
