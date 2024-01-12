@@ -1,38 +1,28 @@
 import './category.css'
 import Img from '../../assets/1.avif'
 import Img2 from '../../assets/2.avif'
-import Img3 from '../../assets/3.avif'
-import Img4 from '../../assets/4.avif'
+import Img3 from '../../assets/Nike.png'
+import Img4 from '../../assets/adidas.png'
+
+import data from '../../data/data.json'
 
 export default function Category(){
+
+    const filteredDataNike =  data.filter((a) => a.brand == "Nike")
+    const filteredDataAdidas =  data.filter((a) => a.brand == "Adidas")
+    const filteredDataMasculino =  data.filter((a) => a.gender == "Masculino")
+    const filteredDataFeminino =  data.filter((a) => a.gender == "Feminino")
+
     return(
         <div className='section'>
             <h2>Categorias</h2>
             <div>
                 <a href="">
                 <figure>
-                    <img src={Img}/>
-                    <div>
-                        <h3>Verão</h3>
-                        <p>25 items</p>
-                    </div>
-                </figure>
-                </a>
-                <a href="">
-                <figure>
-                    <img src={Img2}/>
-                    <div>
-                        <h3>Inverno</h3>
-                        <p>25 items</p>
-                    </div>
-                </figure>
-                </a>
-                <a href="">
-                <figure>
                     <img src={Img3}/>
                     <div>
-                        <h3>Calçados</h3>
-                        <p>25 items</p>
+                        <h3>Nike</h3>
+                        <p>{ filteredDataNike.length} Items</p>
                     </div>
                 </figure>
                 </a>
@@ -40,8 +30,26 @@ export default function Category(){
                 <figure>
                     <img src={Img4}/>
                     <div>
-                        <h3>Acessórios</h3>
-                        <p>25 items</p>
+                        <h3>Adidas</h3>
+                        <p>{filteredDataAdidas.length} items</p>
+                    </div>
+                </figure>
+                </a>
+                <a href="">
+                <figure>
+                    <img src={Img2}/>
+                    <div>
+                        <h3>Masculino</h3>
+                        <p>{filteredDataMasculino.length} items</p>
+                    </div>
+                </figure>
+                </a>
+                <a href="">
+                <figure>
+                    <img src={Img}/>
+                    <div>
+                        <h3>Feminino</h3>
+                        <p>{filteredDataFeminino.length} items</p>
                     </div>
                 </figure>
                 </a>

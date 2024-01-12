@@ -1,0 +1,54 @@
+.footer{
+    padding: 20px;
+    background-color: var(--secondary);
+}
+
+.footer span{
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 60px;
+}
+
+.footer input{
+    padding: 5px;
+    width: 250px;
+}
+
+.footer span span{
+    display: block;
+}
+
+.footer div{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-top: 15px;
+    border-top: 1px solid var(--text);
+}
+
+.footer ul{
+    list-style: none;
+}
+
+.footer div li{
+    display: inline-block;
+    padding: 0 20px;
+}
+
+@media (max-width: 600px){
+    .footer{
+        text-align: center;
+    }
+
+    .footer span{
+        display: block;
+    }
+
+    .footer span ul{
+        padding-top: 10px;
+    }
+
+    .footer div{
+        display: block;
+    }
+}

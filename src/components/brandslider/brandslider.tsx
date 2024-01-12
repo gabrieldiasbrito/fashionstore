@@ -1,30 +1,25 @@
 import {Swiper, SwiperSlide} from "swiper/react"
-import { Navigation, Scrollbar } from 'swiper/modules';
+import { Navigation } from 'swiper/modules';
 import 'swiper/css';
 import 'swiper/css/navigation';
-import 'swiper/css/scrollbar';
-
-import './most-sell.css'
 
 import data from '../../data/data.json'
 
-export default function MostSell(){
+export default function BrandSlider(props:any){
 
-    const filteredData =  data.filter((a) => a.sales >= 30)
+    const filteredData =  data.filter((a) => a.brand == props.brand)
     .sort((a,b) =>  b.sales - a.sales)
 
     return(
         <div className="most-sell">
-                <h2>Mais vendidos</h2>
+                <h2>{props.title}</h2>
                 <Swiper
                     className="most-sell-slider"
-                    modules={[ Navigation, Scrollbar]}
+                    modules={[ Navigation]}
                     grabCursor={true}
                     spaceBetween={10}
                     navigation={true}
-                    scrollbar={{
-                        hide: false,
-                    }}
+                    loop={true}
                     breakpoints={{
                         1920: {
                             slidesPerView:6
