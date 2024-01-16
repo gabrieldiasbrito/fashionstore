@@ -1,8 +1,8 @@
 import './category.css'
-import Img from '../../assets/1.avif'
-import Img2 from '../../assets/2.avif'
-import Img3 from '../../assets/Nike.png'
-import Img4 from '../../assets/adidas.png'
+import Img from '../../assets/nike.jpg'
+import Img2 from '../../assets/adidas.avif'
+import Img3 from '../../assets/masc.jpg'
+import Img4 from '../../assets/fem.jpg'
 
 import data from '../../data/data.json'
 
@@ -19,7 +19,7 @@ export default function Category(){
             <div>
                 <a href="">
                 <figure>
-                    <img src={Img3}/>
+                    <img src={Img}/>
                     <div>
                         <h3>Nike</h3>
                         <p>{ filteredDataNike.length} Items</p>
@@ -28,7 +28,7 @@ export default function Category(){
                 </a>
                 <a href="">
                 <figure>
-                    <img src={Img4}/>
+                    <img src={Img2}/>
                     <div>
                         <h3>Adidas</h3>
                         <p>{filteredDataAdidas.length} items</p>
@@ -37,7 +37,7 @@ export default function Category(){
                 </a>
                 <a href="">
                 <figure>
-                    <img src={Img2}/>
+                    <img src={Img3}/>
                     <div>
                         <h3>Masculino</h3>
                         <p>{filteredDataMasculino.length} items</p>
@@ -46,7 +46,7 @@ export default function Category(){
                 </a>
                 <a href="">
                 <figure>
-                    <img src={Img}/>
+                    <img src={Img4}/>
                     <div>
                         <h3>Feminino</h3>
                         <p>{filteredDataFeminino.length} items</p>
