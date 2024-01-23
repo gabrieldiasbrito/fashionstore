@@ -5,6 +5,7 @@ import './index.css'
 import Home from './pages/Home/home.tsx'
 import App from './App.tsx'
 import Error from './pages/404/error.tsx'
+import Search from './pages/search/search.tsx'
 
 import { createBrowserRouter, RouterProvider } from 'react-router-dom'
 
@@ -17,7 +18,11 @@ const router = createBrowserRouter([
     children:[
       {
         path:'/',
-        element:<Home/>
+        element: <Home/>
+      },
+      {
+        path:'/search',
+        element: <Search/>
       }
     ] 
   }

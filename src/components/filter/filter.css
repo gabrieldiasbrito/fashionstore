@@ -1,0 +1,42 @@
+.filter{
+    width: 200px;
+    padding: 20px;
+    margin: 20px;
+    font-weight: bold;
+}
+
+.filter ul{
+    list-style: none;
+    padding-bottom: 10px;
+}
+
+.filter ul li{
+    padding-left: 15px;
+}
+
+.filter button{
+    padding: 3px;
+    margin: 2px 0;
+    border: 2px solid var(--text);
+    background-color: var(--primary);
+    width: 100%;
+    transition: all .3s ease;
+}
+
+.filter button:hover{
+    background-color: var(--text);
+    color: var(--primary);
+    transition: all .3s ease;
+}
+
+@media (max-width:600px){
+    .filter{
+        width: 90%;
+    }
+
+    .filter ul{
+        display: flex;
+        justify-content:baseline;
+        align-items: center;
+    }
+}
