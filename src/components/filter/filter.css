@@ -23,10 +23,14 @@
     transition: all .3s ease;
 }
 
-.filter button:hover{
+.filter button:hover {
     background-color: var(--text);
     color: var(--primary);
     transition: all .3s ease;
+}
+
+.filter-button{
+    display: none;
 }
 
 @media (max-width:600px){
@@ -34,9 +38,15 @@
         width: 90%;
     }
 
-    .filter ul{
-        display: flex;
-        justify-content:baseline;
-        align-items: center;
+    .filter-button{
+        display: block;
+    }
+    
+    .filter-div{
+        display: none;
+    }
+
+    .filter-div.open{
+        display: block;
     }
 }

@@ -6,7 +6,10 @@ export default function Search(){
     return(
         <div className='search'>
             <Filter/>
-            <SearchDisplay/>
+            <div>
+
+                <SearchDisplay/>
+            </div>
         </div>
     )
 }
